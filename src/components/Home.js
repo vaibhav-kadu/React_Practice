@@ -18,6 +18,9 @@ function Home() {
         <button className='card' onClick={()=>negavite("/task4")}>Task 4</button> 
         <button className='card' onClick={()=>negavite("/task5")}>Task 5</button> 
         <button className='card' onClick={()=>negavite("/task6")}>Task 6</button> 
+        <button className='card' onClick={()=>negavite("/task7")}>Task 7</button> 
+        <button className='card' onClick={()=>negavite("/task8")}>Task 8</button> 
+        <button className='card' onClick={()=>negavite("/task9")}>Task 9</button> 
       </div>
       </div>
       </header>
